@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sevibogdanov   
-[My page](https://sevibogdanov.github.io)
+[Моя страница-визитка](https://sevibogdanov.github.io)
 
